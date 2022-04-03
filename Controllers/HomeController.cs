@@ -26,6 +26,7 @@ namespace KendoUiPractice.Controllers
 
         public IActionResult Privacy()
         {
+            //deep
             return View();
         }
 
