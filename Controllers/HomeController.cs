@@ -31,6 +31,7 @@ namespace KendoUiPractice.Controllers
 
         public IActionResult CountryList()
         {
+            //jfvudygdvgchdvgch
             return View();
         }
 
